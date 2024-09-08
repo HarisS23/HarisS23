@@ -1,6 +1,6 @@
 Haris Sejmenović
 -
-👋 First-year IT student exploring tech.
+👋 Second-year IT student exploring tech.
 
 🚀 Coding projects & assignments.
 
