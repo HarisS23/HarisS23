@@ -1,6 +1,6 @@
 Haris Sejmenović
 -
-👋 Third-year IT student exploring tech.
+👋 Third year IT student exploring tech.
 
 🚀 Coding projects & assignments.
 
