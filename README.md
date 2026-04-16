@@ -8,4 +8,4 @@ Haris Sejmenović
 
 🌟 Let's connect & code together!
 
-🔗 Portfolio: [link](https://hariss23.github.io/Portfolio/)
+🔗 Portfolio: [here](https://hariss23.github.io/Portfolio/)
