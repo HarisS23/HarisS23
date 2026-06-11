@@ -2,10 +2,10 @@ Haris Sejmenović
 -
 👋 Third year IT student exploring tech.
 
-🚀 Coding projects & assignments.
+🚀 Creating software projects & assignments.
 
 💡 Learning & collaborating.
 
-🌟 Let's connect & code together!
+🌟 Let's connect & create solutions together!
 
 🔗 Portfolio: [here](https://hariss23.github.io/Portfolio/)
